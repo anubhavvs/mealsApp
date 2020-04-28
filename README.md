@@ -4,9 +4,9 @@ A Meals App Using Flutter.
 
 ## Screenshots
 
-![](screenshots/Screenshot_1588050082.png)
-![](screenshots/Screenshot_1588050123.png)
-![](screenshots/Screenshot_1588050138.png)
+![](screenshots/1.jpg)
+![](screenshots/2.jpg)
+![](screenshots/3.jpg)
 
 ### How to use
 
